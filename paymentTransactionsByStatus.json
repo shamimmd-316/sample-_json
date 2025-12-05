@@ -1,0 +1,1017 @@
+[
+  {
+    "Time": "2025-12-02 11:20:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 22,
+    "REFUNDED": "",
+    "SUCCESSFUL": 82
+  },
+  {
+    "Time": "2025-12-02 11:30:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 48,
+    "REFUNDED": "",
+    "SUCCESSFUL": 185
+  },
+  {
+    "Time": "2025-12-02 11:40:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 72,
+    "REFUNDED": 2,
+    "SUCCESSFUL": 193
+  },
+  {
+    "Time": "2025-12-02 11:50:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 53,
+    "REFUNDED": "",
+    "SUCCESSFUL": 165
+  },
+  {
+    "Time": "2025-12-02 12:00:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 50,
+    "REFUNDED": 2,
+    "SUCCESSFUL": 189
+  },
+  {
+    "Time": "2025-12-02 12:10:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 82,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 175
+  },
+  {
+    "Time": "2025-12-02 12:20:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 100,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 176
+  },
+  {
+    "Time": "2025-12-02 12:30:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 75,
+    "REFUNDED": 2,
+    "SUCCESSFUL": 180
+  },
+  {
+    "Time": "2025-12-02 12:40:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 73,
+    "REFUNDED": 10,
+    "SUCCESSFUL": 227
+  },
+  {
+    "Time": "2025-12-02 12:50:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 60,
+    "REFUNDED": 6,
+    "SUCCESSFUL": 204
+  },
+  {
+    "Time": "2025-12-02 13:00:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 66,
+    "REFUNDED": 12,
+    "SUCCESSFUL": 239
+  },
+  {
+    "Time": "2025-12-02 13:10:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 103,
+    "REFUNDED": 6,
+    "SUCCESSFUL": 222
+  },
+  {
+    "Time": "2025-12-02 13:20:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 124,
+    "REFUNDED": 8,
+    "SUCCESSFUL": 216
+  },
+  {
+    "Time": "2025-12-02 13:30:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 73,
+    "REFUNDED": 4,
+    "SUCCESSFUL": 237
+  },
+  {
+    "Time": "2025-12-02 13:40:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 69,
+    "REFUNDED": 4,
+    "SUCCESSFUL": 208
+  },
+  {
+    "Time": "2025-12-02 13:50:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 72,
+    "REFUNDED": 4,
+    "SUCCESSFUL": 242
+  },
+  {
+    "Time": "2025-12-02 14:00:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 96,
+    "REFUNDED": 3,
+    "SUCCESSFUL": 246
+  },
+  {
+    "Time": "2025-12-02 14:10:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 103,
+    "REFUNDED": 2,
+    "SUCCESSFUL": 217
+  },
+  {
+    "Time": "2025-12-02 14:20:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 105,
+    "REFUNDED": 2,
+    "SUCCESSFUL": 237
+  },
+  {
+    "Time": "2025-12-02 14:30:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 100,
+    "REFUNDED": 3,
+    "SUCCESSFUL": 229
+  },
+  {
+    "Time": "2025-12-02 14:40:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 68,
+    "REFUNDED": 2,
+    "SUCCESSFUL": 229
+  },
+  {
+    "Time": "2025-12-02 14:50:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 75,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 226
+  },
+  {
+    "Time": "2025-12-02 15:00:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 76,
+    "REFUNDED": 2,
+    "SUCCESSFUL": 236
+  },
+  {
+    "Time": "2025-12-02 15:10:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 75,
+    "REFUNDED": 10,
+    "SUCCESSFUL": 212
+  },
+  {
+    "Time": "2025-12-02 15:20:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 114,
+    "REFUNDED": 6,
+    "SUCCESSFUL": 244
+  },
+  {
+    "Time": "2025-12-02 15:30:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 81,
+    "REFUNDED": 3,
+    "SUCCESSFUL": 226
+  },
+  {
+    "Time": "2025-12-02 15:40:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 81,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 231
+  },
+  {
+    "Time": "2025-12-02 15:50:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 96,
+    "REFUNDED": 3,
+    "SUCCESSFUL": 267
+  },
+  {
+    "Time": "2025-12-02 16:00:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 77,
+    "REFUNDED": 2,
+    "SUCCESSFUL": 281
+  },
+  {
+    "Time": "2025-12-02 16:10:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 99,
+    "REFUNDED": 4,
+    "SUCCESSFUL": 262
+  },
+  {
+    "Time": "2025-12-02 16:20:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 105,
+    "REFUNDED": 3,
+    "SUCCESSFUL": 293
+  },
+  {
+    "Time": "2025-12-02 16:30:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 79,
+    "REFUNDED": 5,
+    "SUCCESSFUL": 259
+  },
+  {
+    "Time": "2025-12-02 16:40:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 97,
+    "REFUNDED": 2,
+    "SUCCESSFUL": 292
+  },
+  {
+    "Time": "2025-12-02 16:50:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 92,
+    "REFUNDED": 2,
+    "SUCCESSFUL": 248
+  },
+  {
+    "Time": "2025-12-02 17:00:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 87,
+    "REFUNDED": "",
+    "SUCCESSFUL": 275
+  },
+  {
+    "Time": "2025-12-02 17:10:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 120,
+    "REFUNDED": 2,
+    "SUCCESSFUL": 245
+  },
+  {
+    "Time": "2025-12-02 17:20:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 148,
+    "REFUNDED": "",
+    "SUCCESSFUL": 238
+  },
+  {
+    "Time": "2025-12-02 17:30:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 87,
+    "REFUNDED": 4,
+    "SUCCESSFUL": 236
+  },
+  {
+    "Time": "2025-12-02 17:40:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 92,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 254
+  },
+  {
+    "Time": "2025-12-02 17:50:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 88,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 255
+  },
+  {
+    "Time": "2025-12-02 18:00:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 113,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 259
+  },
+  {
+    "Time": "2025-12-02 18:10:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 111,
+    "REFUNDED": "",
+    "SUCCESSFUL": 291
+  },
+  {
+    "Time": "2025-12-02 18:20:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 166,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 288
+  },
+  {
+    "Time": "2025-12-02 18:30:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 96,
+    "REFUNDED": "",
+    "SUCCESSFUL": 294
+  },
+  {
+    "Time": "2025-12-02 18:40:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 94,
+    "REFUNDED": 2,
+    "SUCCESSFUL": 258
+  },
+  {
+    "Time": "2025-12-02 18:50:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 84,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 260
+  },
+  {
+    "Time": "2025-12-02 19:00:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 105,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 330
+  },
+  {
+    "Time": "2025-12-02 19:10:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 123,
+    "REFUNDED": 4,
+    "SUCCESSFUL": 380
+  },
+  {
+    "Time": "2025-12-02 19:20:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 142,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 277
+  },
+  {
+    "Time": "2025-12-02 19:30:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 96,
+    "REFUNDED": 4,
+    "SUCCESSFUL": 338
+  },
+  {
+    "Time": "2025-12-02 19:40:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 115,
+    "REFUNDED": 6,
+    "SUCCESSFUL": 262
+  },
+  {
+    "Time": "2025-12-02 19:50:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 109,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 285
+  },
+  {
+    "Time": "2025-12-02 20:00:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 99,
+    "REFUNDED": 2,
+    "SUCCESSFUL": 282
+  },
+  {
+    "Time": "2025-12-02 20:10:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 127,
+    "REFUNDED": "",
+    "SUCCESSFUL": 293
+  },
+  {
+    "Time": "2025-12-02 20:20:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 137,
+    "REFUNDED": 3,
+    "SUCCESSFUL": 273
+  },
+  {
+    "Time": "2025-12-02 20:30:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 97,
+    "REFUNDED": 4,
+    "SUCCESSFUL": 288
+  },
+  {
+    "Time": "2025-12-02 20:40:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 115,
+    "REFUNDED": 2,
+    "SUCCESSFUL": 274
+  },
+  {
+    "Time": "2025-12-02 20:50:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 107,
+    "REFUNDED": 2,
+    "SUCCESSFUL": 290
+  },
+  {
+    "Time": "2025-12-02 21:00:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 99,
+    "REFUNDED": 4,
+    "SUCCESSFUL": 298
+  },
+  {
+    "Time": "2025-12-02 21:10:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 117,
+    "REFUNDED": 2,
+    "SUCCESSFUL": 264
+  },
+  {
+    "Time": "2025-12-02 21:20:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 137,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 294
+  },
+  {
+    "Time": "2025-12-02 21:30:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 114,
+    "REFUNDED": "",
+    "SUCCESSFUL": 291
+  },
+  {
+    "Time": "2025-12-02 21:40:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 110,
+    "REFUNDED": "",
+    "SUCCESSFUL": 260
+  },
+  {
+    "Time": "2025-12-02 21:50:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 95,
+    "REFUNDED": 5,
+    "SUCCESSFUL": 279
+  },
+  {
+    "Time": "2025-12-02 22:00:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 102,
+    "REFUNDED": 4,
+    "SUCCESSFUL": 288
+  },
+  {
+    "Time": "2025-12-02 22:10:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 130,
+    "REFUNDED": "",
+    "SUCCESSFUL": 267
+  },
+  {
+    "Time": "2025-12-02 22:20:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 145,
+    "REFUNDED": "",
+    "SUCCESSFUL": 272
+  },
+  {
+    "Time": "2025-12-02 22:30:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 118,
+    "REFUNDED": 3,
+    "SUCCESSFUL": 236
+  },
+  {
+    "Time": "2025-12-02 22:40:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 81,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 275
+  },
+  {
+    "Time": "2025-12-02 22:50:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 93,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 247
+  },
+  {
+    "Time": "2025-12-02 23:00:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 124,
+    "REFUNDED": 5,
+    "SUCCESSFUL": 269
+  },
+  {
+    "Time": "2025-12-02 23:10:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 96,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 232
+  },
+  {
+    "Time": "2025-12-02 23:20:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 106,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 252
+  },
+  {
+    "Time": "2025-12-02 23:30:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 110,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 217
+  },
+  {
+    "Time": "2025-12-02 23:40:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 75,
+    "REFUNDED": 7,
+    "SUCCESSFUL": 223
+  },
+  {
+    "Time": "2025-12-02 23:50:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 84,
+    "REFUNDED": 6,
+    "SUCCESSFUL": 200
+  },
+  {
+    "Time": "2025-12-03 00:00:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 123,
+    "REFUNDED": 4,
+    "SUCCESSFUL": 292
+  },
+  {
+    "Time": "2025-12-03 00:10:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 89,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 218
+  },
+  {
+    "Time": "2025-12-03 00:20:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 121,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 251
+  },
+  {
+    "Time": "2025-12-03 00:30:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 115,
+    "REFUNDED": 2,
+    "SUCCESSFUL": 227
+  },
+  {
+    "Time": "2025-12-03 00:40:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 82,
+    "REFUNDED": 2,
+    "SUCCESSFUL": 209
+  },
+  {
+    "Time": "2025-12-03 00:50:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 84,
+    "REFUNDED": 3,
+    "SUCCESSFUL": 178
+  },
+  {
+    "Time": "2025-12-03 01:00:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 84,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 189
+  },
+  {
+    "Time": "2025-12-03 01:10:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 88,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 166
+  },
+  {
+    "Time": "2025-12-03 01:20:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 111,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 164
+  },
+  {
+    "Time": "2025-12-03 01:30:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 84,
+    "REFUNDED": "",
+    "SUCCESSFUL": 182
+  },
+  {
+    "Time": "2025-12-03 01:40:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 80,
+    "REFUNDED": 2,
+    "SUCCESSFUL": 152
+  },
+  {
+    "Time": "2025-12-03 01:50:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 61,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 114
+  },
+  {
+    "Time": "2025-12-03 02:00:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 64,
+    "REFUNDED": 4,
+    "SUCCESSFUL": 129
+  },
+  {
+    "Time": "2025-12-03 02:10:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 74,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 126
+  },
+  {
+    "Time": "2025-12-03 02:20:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 102,
+    "REFUNDED": 2,
+    "SUCCESSFUL": 130
+  },
+  {
+    "Time": "2025-12-03 02:30:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 78,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 104
+  },
+  {
+    "Time": "2025-12-03 02:40:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 52,
+    "REFUNDED": "",
+    "SUCCESSFUL": 100
+  },
+  {
+    "Time": "2025-12-03 02:50:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 58,
+    "REFUNDED": "",
+    "SUCCESSFUL": 93
+  },
+  {
+    "Time": "2025-12-03 03:00:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 59,
+    "REFUNDED": 2,
+    "SUCCESSFUL": 89
+  },
+  {
+    "Time": "2025-12-03 03:10:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 83,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 84
+  },
+  {
+    "Time": "2025-12-03 03:20:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 67,
+    "REFUNDED": "",
+    "SUCCESSFUL": 79
+  },
+  {
+    "Time": "2025-12-03 03:30:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 50,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 67
+  },
+  {
+    "Time": "2025-12-03 03:40:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 45,
+    "REFUNDED": "",
+    "SUCCESSFUL": 56
+  },
+  {
+    "Time": "2025-12-03 03:50:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 48,
+    "REFUNDED": "",
+    "SUCCESSFUL": 71
+  },
+  {
+    "Time": "2025-12-03 04:00:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 53,
+    "REFUNDED": "",
+    "SUCCESSFUL": 66
+  },
+  {
+    "Time": "2025-12-03 04:10:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 63,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 73
+  },
+  {
+    "Time": "2025-12-03 04:20:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 74,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 56
+  },
+  {
+    "Time": "2025-12-03 04:30:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 58,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 59
+  },
+  {
+    "Time": "2025-12-03 04:40:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 60,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 59
+  },
+  {
+    "Time": "2025-12-03 04:50:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 53,
+    "REFUNDED": "",
+    "SUCCESSFUL": 56
+  },
+  {
+    "Time": "2025-12-03 05:00:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 61,
+    "REFUNDED": "",
+    "SUCCESSFUL": 62
+  },
+  {
+    "Time": "2025-12-03 05:10:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 56,
+    "REFUNDED": "",
+    "SUCCESSFUL": 71
+  },
+  {
+    "Time": "2025-12-03 05:20:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 61,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 53
+  },
+  {
+    "Time": "2025-12-03 05:30:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 39,
+    "REFUNDED": "",
+    "SUCCESSFUL": 98
+  },
+  {
+    "Time": "2025-12-03 05:40:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 55,
+    "REFUNDED": "",
+    "SUCCESSFUL": 111
+  },
+  {
+    "Time": "2025-12-03 05:50:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 47,
+    "REFUNDED": "",
+    "SUCCESSFUL": 109
+  },
+  {
+    "Time": "2025-12-03 06:00:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 56,
+    "REFUNDED": "",
+    "SUCCESSFUL": 113
+  },
+  {
+    "Time": "2025-12-03 06:10:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 63,
+    "REFUNDED": "",
+    "SUCCESSFUL": 122
+  },
+  {
+    "Time": "2025-12-03 06:20:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 61,
+    "REFUNDED": "",
+    "SUCCESSFUL": 146
+  },
+  {
+    "Time": "2025-12-03 06:30:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 60,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 166
+  },
+  {
+    "Time": "2025-12-03 06:40:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 48,
+    "REFUNDED": 2,
+    "SUCCESSFUL": 160
+  },
+  {
+    "Time": "2025-12-03 06:50:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 49,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 178
+  },
+  {
+    "Time": "2025-12-03 07:00:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 69,
+    "REFUNDED": "",
+    "SUCCESSFUL": 160
+  },
+  {
+    "Time": "2025-12-03 07:10:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 69,
+    "REFUNDED": "",
+    "SUCCESSFUL": 185
+  },
+  {
+    "Time": "2025-12-03 07:20:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 60,
+    "REFUNDED": "",
+    "SUCCESSFUL": 192
+  },
+  {
+    "Time": "2025-12-03 07:30:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 56,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 170
+  },
+  {
+    "Time": "2025-12-03 07:40:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 59,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 177
+  },
+  {
+    "Time": "2025-12-03 07:50:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 61,
+    "REFUNDED": "",
+    "SUCCESSFUL": 156
+  },
+  {
+    "Time": "2025-12-03 08:00:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 59,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 159
+  },
+  {
+    "Time": "2025-12-03 08:10:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 82,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 150
+  },
+  {
+    "Time": "2025-12-03 08:20:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 66,
+    "REFUNDED": "",
+    "SUCCESSFUL": 153
+  },
+  {
+    "Time": "2025-12-03 08:30:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 60,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 144
+  },
+  {
+    "Time": "2025-12-03 08:40:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 34,
+    "REFUNDED": "",
+    "SUCCESSFUL": 151
+  },
+  {
+    "Time": "2025-12-03 08:50:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 60,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 136
+  },
+  {
+    "Time": "2025-12-03 09:00:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 46,
+    "REFUNDED": "",
+    "SUCCESSFUL": 140
+  },
+  {
+    "Time": "2025-12-03 09:10:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 72,
+    "REFUNDED": "",
+    "SUCCESSFUL": 163
+  },
+  {
+    "Time": "2025-12-03 09:20:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 83,
+    "REFUNDED": "",
+    "SUCCESSFUL": 173
+  },
+  {
+    "Time": "2025-12-03 09:30:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 47,
+    "REFUNDED": "",
+    "SUCCESSFUL": 190
+  },
+  {
+    "Time": "2025-12-03 09:40:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 43,
+    "REFUNDED": "",
+    "SUCCESSFUL": 156
+  },
+  {
+    "Time": "2025-12-03 09:50:00",
+    "AWAITING_3D_SECURE_VERIFICATION": "",
+    "FAILED": 48,
+    "REFUNDED": "",
+    "SUCCESSFUL": 157
+  },
+  {
+    "Time": "2025-12-03 10:00:00",
+    "AWAITING_3D_SECURE_VERIFICATION": 3,
+    "FAILED": 51,
+    "REFUNDED": "",
+    "SUCCESSFUL": 141
+  },
+  {
+    "Time": "2025-12-03 10:10:00",
+    "AWAITING_3D_SECURE_VERIFICATION": 7,
+    "FAILED": 68,
+    "REFUNDED": "",
+    "SUCCESSFUL": 140
+  },
+  {
+    "Time": "2025-12-03 10:20:00",
+    "AWAITING_3D_SECURE_VERIFICATION": 11,
+    "FAILED": 93,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 170
+  },
+  {
+    "Time": "2025-12-03 10:30:00",
+    "AWAITING_3D_SECURE_VERIFICATION": 7,
+    "FAILED": 55,
+    "REFUNDED": "",
+    "SUCCESSFUL": 189
+  },
+  {
+    "Time": "2025-12-03 10:40:00",
+    "AWAITING_3D_SECURE_VERIFICATION": 6,
+    "FAILED": 67,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 142
+  },
+  {
+    "Time": "2025-12-03 10:50:00",
+    "AWAITING_3D_SECURE_VERIFICATION": 4,
+    "FAILED": 41,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 161
+  },
+  {
+    "Time": "2025-12-03 11:00:00",
+    "AWAITING_3D_SECURE_VERIFICATION": 9,
+    "FAILED": 56,
+    "REFUNDED": 2,
+    "SUCCESSFUL": 160
+  },
+  {
+    "Time": "2025-12-03 11:10:00",
+    "AWAITING_3D_SECURE_VERIFICATION": 14,
+    "FAILED": 75,
+    "REFUNDED": 3,
+    "SUCCESSFUL": 185
+  },
+  {
+    "Time": "2025-12-03 11:20:00",
+    "AWAITING_3D_SECURE_VERIFICATION": 6,
+    "FAILED": 40,
+    "REFUNDED": 1,
+    "SUCCESSFUL": 96
+  }
+]
